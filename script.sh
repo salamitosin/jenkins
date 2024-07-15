@@ -1,1 +1,1 @@
-echo "This is just a simple script jenkins webhook" 
+echo "This is just a simple script jenkins webhook " 
